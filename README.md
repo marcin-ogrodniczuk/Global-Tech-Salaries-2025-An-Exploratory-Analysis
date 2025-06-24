@@ -6,7 +6,7 @@ This notebook explores salary trends for various tech roles in 2025 using a glob
 
 As I transition into data science, I wanted to understand how factors like job title, experience level, and remote work influence tech compensation across the globe.
 
-This project isn't just about pay — it's about using data to uncover patterns that impact career growth, equity, and workforce trends. It also serves as a demonstration of real-world data cleaning, aggregation, and analysis using Python and pandas.
+This project goes beyond salary figures—it's an exploration of how data can reveal patterns that shape career trajectories, workplace equity, and industry trends. It also demonstrates practical skills in data cleaning, aggregation, and analysis using Python and pandas
 
 ## Key Analysis:
 - Salary by job title and experience level
